@@ -2,4 +2,4 @@
 
 Official code for our paper under review.
 
-![Main Result](main_result.png)
+![Main Result](risk_guide_planning/main_result.png)
